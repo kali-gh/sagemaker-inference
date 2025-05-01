@@ -1,3 +1,3 @@
-### What is this
+### Overview
 
-Shows how to set up inference using a custom container in sagemaker
+This repository contains the code necessary to set up a minimal real time inference sagemaker endpoint on AWS.
